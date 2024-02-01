@@ -26,7 +26,6 @@
 
 - <a href="https://www.linkedin.com/in/geison-sousa-de-oliveira-62bb44145/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" target="_blank"></a>
 
-!https://github.com/Geisonads1988/Geisonads1988/blob/output/github-contribution-grid-snake.svg
 
 <div>
 <a href="https://github.com/Geisonads1988">
